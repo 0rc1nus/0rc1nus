@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **0rc1nus/0rc1nus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
