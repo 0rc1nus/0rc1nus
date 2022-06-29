@@ -13,4 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Discord](https://img.shields.io/discord/740028725654978610?color=9cb4b2&label=%20&labelColor=5d7170&logoColor=white&style=for-the-badge&logo=discord)](https://discord.gg/HSyVPZTFvF)
+[![Twitter](https://img.shields.io/twitter/follow/OrcinusWasTaken?label=&color=9cb4b2&labelColor=5d7170&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/OrcinusWasTaken)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0rc1nus&show_icons=true&count_private=true&count_private=true&include_all_commits=true&theme=great-gatsby)
